@@ -1,6 +1,6 @@
 # Franked License Demo — C++
 
-A minimal C++ application that checks a Franked license before running. Build it to an `.exe` (Windows) or binary (Linux/macOS).
+A minimal C++ application that checks Franks licenses before running. Build it to an `.exe` (Windows) or binary (Linux/macOS).
 
 ## Quick Start
 
